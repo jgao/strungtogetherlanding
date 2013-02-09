@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #FFFFFF;
+  font-family: "helvetica","calibri","times new roman","arial","courier";
+}
+
+div#page {
+  width: 1000px;
+  margin: 0px auto 0px auto;
+}
+
+div#header {
+  margin: 25px 0px 0px 0px;
+  height: 150px;
+}
+
+img#viperlogo {
+  width: 400px;
+}
+
+div#viperlogo {
+  width: 400px;
+  float: left;
+}
+
+div#navigation {
+  float: right;
+}
+
+div.navibutton {
+  width: 135px;
+  height: 110px;
+  float: left;
+  font-size: 150%;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+
+div.navibuttontext {
+  margin: 75px 0px 10px 0px;
+}
+
+div#footer {
+  margin: 100px 0px 50px 0px;
+  font-size: 75%;
+  text-align: center;
+}
+
+div#body {
+  width: 800px;
+  margin: 25px auto 0px auto;
+}
+
+div.heading {
+  font-size: 150%;
+  font-style: bold;
+  margin: 5px 0px 10px 0px;
+}
+
+div.subheading {
+  font-size: 100%;
+  font-style: italic;
+  margin: 5px 0px 20px 0px;
+}
+
+p {
+  margin: 10px 0px 5px 0px;
+}
