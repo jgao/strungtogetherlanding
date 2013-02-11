@@ -6,12 +6,12 @@
   define('PAGE_BASE', 'pages/');
   define('PAGE_SUFFIX', '.php');
 
-  $pageList = array('tour', 'team', 'signup', 'developer');
+  $pageList = array('vision', 'team', 'signup', 'developer');
 ?>
 
 <html>
   <head>
-    <title>VIPER - VIPER Is Personalized Experience Recommendation</title>
+    <title>Strung Together - We Can Be Strong Together</title>
     <?php foreach($pageList as $page){ ?>
       <link rel="stylesheet" type="text/css" href="<?php echo CSS_BASE.$page.'.css'; ?>" />
     <?php } ?>
@@ -23,8 +23,8 @@
   <body>
     <div id="page">
       <div id="header">
-        <div id="viperlogo">
-          <img id="viperlogo" src="<?php echo IMAGE_BASE.'viperlogo.png'; ?>" alt="viperlogo" />
+        <div id="strungtogetherlogo">
+          <img id="strungtogetherlogo" src="<?php echo IMAGE_BASE.'strungtogetherlogo.png'; ?>" alt="strungtogetherlogo" />
         </div>
         <div id="navigation">
           <?php foreach($pageList as $page){ ?>
@@ -44,7 +44,7 @@
       </div>
 
       <div id="footer">
-        &#169; VIPER 2012. All rights reserved. The cake is a lie.
+        &#169; Strung Together 2013. All rights reserved.
       </div>
 
     </div>

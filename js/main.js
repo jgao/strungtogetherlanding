@@ -1,7 +1,7 @@
 //parameters
 var backgroundcolor = "#FFFFFF";
 var navihovercolor = "#FFEEEE";
-var defaultPage = "tour";
+var defaultPage = "vision";
 
 $(document).ready(function(){
   $("div.bodypage").hide();

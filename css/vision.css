@@ -1,0 +1,53 @@
+div.tourstep {
+  font-family: "arial", "sans-serif", "helvetica";
+  margin: 20px 0px 50px 0px;
+  font-style: bold;
+}
+
+div.tournumber {
+  background-color: #CCFFEE;
+  float: left;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  box-shadow: black 0.1em 0.1em 0.1em;
+  padding: 15px 15px 15px 15px;
+  margin: 0px 5px 0px 0px;
+  font-size: 125%;
+}
+
+div.toursteptext {
+  float: left;
+  font-size: 125%;
+  margin: 15px 0px 0px 10px;
+}
+
+div.tourbody {
+  padding-top: 60px;
+  margin: 0px 60px 0px 60px;
+}
+
+img#integration {
+  float: right;
+  margin: -5px 5px 5px 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #EEEEEE;
+}
+
+img#clustering {
+  float: left;
+  margin: 15px 30px 5px 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #EEEEEE;
+  width: 40%;
+}
+
+img#recommendation {
+  float: right;
+  margin: -5px 5px 5px 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #EEEEEE;
+  width: 40%;
+}
