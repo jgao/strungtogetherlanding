@@ -35,14 +35,16 @@
         </div>
       </div>
 
-      <div id="body">
+Under construction, check back later.
+
+<!--      <div id="body">
         <?php foreach($pageList as $page){ ?>
           <div id="<?php echo $page; ?>" class="bodypage">
             <?php include(PAGE_BASE.$page.PAGE_SUFFIX); ?>
           </div>
         <?php } ?>
       </div>
-
+-->
       <div id="footer">
         &#169; Strung Together 2013. All rights reserved.
       </div>
